@@ -21,7 +21,7 @@ __Back-end__
 __Front-end__
 
 - Go to the sub-folder `cd vue-Delish`
-- Run __touch .env.local__   VUE_APP_API_URL=http://127.0.0.1:8000/
+- Run __touch .env.local__
 - Add correct value of your domain for backend URL in this variable: `VUE_APP_API_URL=[your_domain]`
 - Run __npm install__ 
 - Run __npm run start__ 
