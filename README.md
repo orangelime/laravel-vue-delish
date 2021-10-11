@@ -1,6 +1,6 @@
 # laravel-vue-delish
 
-##Live Demo
+## Live Demo
 
 https://vue-delish.herokuapp.com/#/index
 
